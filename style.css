@@ -41,7 +41,7 @@ nav {
 }
 
 .nav-link:hover {
-    color: blue;
+    color: darkgreen;
     border-bottom: 1px dotted blue;
 }
 
@@ -82,7 +82,7 @@ h1::after{
 }
 
 .post:hover{
-    background-color: blue;
+    background-color: #fc7703;
 }
 
 .
@@ -168,6 +168,5 @@ aside {
 }
 
 .logo {
-    width:200px;
-    
+    width:200px;    
 }
